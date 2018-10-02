@@ -1,5 +1,10 @@
 @import '../../node_modules/bootstrap/scss/functions'; // pre requirement to variables
+
+
+// variables
+
+@import  'custom-variables';
+
 @import '../../node_modules/bootstrap/scss/bootstrap'; // current version of bootstrap from npm 
-@import 'variables'; 
 @import 'bootstrap-custom/bootstrap'; 
 
