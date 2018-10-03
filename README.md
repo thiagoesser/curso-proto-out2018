@@ -4,7 +4,7 @@ Esse projeto é uma base para construção de protótipos e produtos digitais us
 
 Quando falarmos **abrir  o prompt** abaixo, queremos dizer que você deve *abrir o Terminal* (no MacOS) ou *abrir um Janela de Comando* (no Windows). 
 
-##Passo 1: Instalar o Node.js
+## Passo 1: Instalar o Node.js
 
 Abra o prompt e digite:
 
@@ -26,26 +26,26 @@ Para certificar-se que a instalação está correta, abra novamente um prompt e 
 node -v
 ```
 
-##Passo 2: Instalar o Git
+## Passo 2: Instalar o Git
 
 Como medida preventiva, instale o [Git para Windows](https://git-for-windows.github.io/) ou [Git para Mac](https://git-scm.com/download/mac).
 
-##Passo 3: Instalar o cliente de GitHub 
+## Passo 3: Instalar o cliente de GitHub 
 
 Instale o [Git para desktop](https://desktop.github.com). A essa etapa, você já deve ter criado uma conta no GitHub. Se não for esse o caso, [crie uma conta](https://github.com/join).
 
 
-##Passo 4: Fazer um fork do projeto
+## Passo 4: Fazer um fork do projeto
 
 Entre no projeto [reference-bootstrap](https://github.com/dcgteam/reference-bootstrap), e no canto superior direito **faça um fork** (o que equivale a copiar o projeto original e rodar um novo a partir dele).
 
-##Passo 5: Clonar projeto 
+## Passo 5: Clonar projeto 
 
 Abra o GitHub na sua máquina (o mesmo que foi instalado no passo 3). Vá no menu superior, em Arquivo > **Clonar Repositório**.  Clone o repositório que você acabou de criar (o fork, e não o projeto original).
 
 Para conferência, abra a pasta (via Finder ou Windows explorer) e localize a pasta com os arquivos que você acabou de baixar (o resultado da clonagem).
 
-##Passo 6: Instalar dependências
+## Passo 6: Instalar dependências
 
 Instale os módulos/dependências necessárias, abra o prompt **dentro da pasta raiz do projeto** e digite:
 
@@ -53,7 +53,7 @@ Instale os módulos/dependências necessárias, abra o prompt **dentro da pasta 
 npm install
 ```
 
-##Passo 7: Rodar o gulp
+## Passo 7: Rodar o gulp
 
 Abra o prompt **dentro da pasta raiz do projeto** (ou simplesmente aproveite o mesmo prompt já aberto no passo anterior), e digite:
 
